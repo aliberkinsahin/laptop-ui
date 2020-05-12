@@ -166,7 +166,7 @@ nav {
     }
 }
 
-@media screen and (max-width: 1080px) {
+@media (max-width: 1080px) {
     .presentation {
         flex-direction: column;
     }
@@ -204,7 +204,7 @@ nav {
     }
 }
 
-@media screen and (max-width: 660px) {
+@media (max-width: 660px) {
     .big-circle {
         opacity: 0.2;
         height: 50%;
